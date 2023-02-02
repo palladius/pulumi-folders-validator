@@ -4,7 +4,7 @@ import pulumi
 from pulumi_gcp import storage
 import pulumi_github as github
 
-repo = github.Repository("demo-repo",
+repo = github.Repository("pulumized-demo-repo",
   description="Generated from automated test",
   visibility="private",
 )

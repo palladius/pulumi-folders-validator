@@ -1,0 +1,6 @@
+name: gcp-py-github
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A test with GitHub libraries on pulumi

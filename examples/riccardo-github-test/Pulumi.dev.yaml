@@ -1,0 +1,3 @@
+config:
+  gcp:project: palladius-devrel-tests
+  github:owner: palladius
